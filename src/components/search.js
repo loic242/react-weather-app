@@ -1,4 +1,6 @@
 const Search = () => {
-    return ("Hello")
+    return (
+        <AsyncPaginate />
+    )
 }
 export default Search;
